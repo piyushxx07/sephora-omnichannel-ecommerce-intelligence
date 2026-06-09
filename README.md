@@ -298,10 +298,6 @@ sephora-omnichannel-ecommerce-intelligence/
 │   └── 11_review_sentiment.sql
 │
 ├── notebooks/
-│   ├── 01_data_quality_eda.ipynb
-│   ├── 02_sql_bi_table_generation.ipynb
-│   ├── 03_python_insight_analysis.ipynb
-│   └── 04_advanced_analytics_optional.ipynb
 │
 ├── powerbi/
 │   ├── Sephora_Ecommerce_Intelligence_Dashboard.pbix
