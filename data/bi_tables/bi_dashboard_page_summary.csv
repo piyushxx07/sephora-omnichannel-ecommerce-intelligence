@@ -1,0 +1,9 @@
+dashboard_page,page_focus,headline_value_1,headline_label_1,headline_value_2,headline_label_2,headline_value_3,headline_label_3
+Executive Overview,"Revenue, orders, conversion, AOV, return rate, and cart abandonment",1173053.3,Total Revenue,4.64,Conversion Rate %,72.2,Average Order Value
+Funnel & Channel Performance,"Sessions, search, clicks, carts, purchases, and channel/source funnel efficiency",350000.0,Total Sessions,58.97,Cart Abandonment Rate %,4.64,Conversion Rate %
+Search & Product Discovery,"Search query quality, CTR, zero results, and revenue per search",168730.0,Total Searches,24.91,Average Search CTR %,3.43,Average Zero Result Rate %
+Product & Brand Performance,"Hero products, hidden gems, conversion risks, and brand performance",8494.0,Total Products,1458.0,Hero Products,436.0,Hidden Gems
+Marketing & Campaign Performance,"Campaign revenue, spend, ROAS, CPA, and source performance",749090.99,Campaign Revenue,3009061.55,Total Ad Spend,0.25,Overall ROAS
+Inventory & Stockout Risk,"Stockout products, low stock risk, and estimated lost revenue",732.0,Currently Out of Stock Products,0.0,High Stockout Risk Products,20041341.3,Estimated Lost Revenue Risk
+Recommendation Analytics,"Recommendation impressions, CTR, CVR, and placement performance",531379.0,Recommendation Impressions,17.0,Recommendation CTR %,16.9,Recommendation CVR %
+Reviews & Sentiment Intelligence,"Review volume, product satisfaction, complaint risk, and loved products",1301136.0,Total Reviews,4.23,Average Review Rating,643.0,Loved Products

@@ -1,0 +1,81 @@
+loyalty_status,preferred_channel,skin_type,customers,sessions,orders,revenue,avg_order_value,session_conversion_rate_pct,revenue_per_customer,sessions_per_customer,purchasing_customers,repeat_customers,repeat_purchase_rate_pct,avg_session_duration_sec,customer_action_segment
+insider,web,combination,37542,23987.0,994.0,69375.86,69.79,4.14,1.85,0.64,986.0,8.0,0.81,102.75,Normal Segment
+insider,app,combination,33832,21675.0,940.0,66325.01,70.56,4.34,1.96,0.64,932.0,8.0,0.86,102.9,Normal Segment
+vib,web,combination,15200,15146.0,762.0,55991.76,73.48,5.03,3.68,1.0,743.0,18.0,2.42,136.44,High Conversion Segment
+vib,app,combination,13592,13374.0,684.0,49963.57,73.05,5.11,3.68,0.98,663.0,21.0,3.17,136.9,High Conversion Segment
+non_member,web,combination,31078,15012.0,621.0,43609.17,70.22,4.14,1.4,0.48,614.0,7.0,1.14,83.32,Normal Segment
+non_member,app,combination,28382,13786.0,550.0,42122.39,76.59,3.99,1.48,0.49,547.0,3.0,0.55,84.93,Normal Segment
+insider,web,unknown,18585,11993.0,510.0,39792.12,78.02,4.25,2.14,0.65,505.0,5.0,0.99,105.12,Normal Segment
+insider,app,unknown,16846,10878.0,514.0,37169.57,72.31,4.73,2.21,0.65,505.0,9.0,1.78,103.83,Normal Segment
+insider,store,combination,17793,11458.0,497.0,34161.69,68.74,4.34,1.92,0.64,490.0,7.0,1.43,105.28,Normal Segment
+rouge,web,combination,5373,7910.0,435.0,32885.09,75.6,5.5,6.12,1.47,417.0,17.0,4.08,171.35,High Conversion Segment
+vib,web,unknown,7389,7291.0,388.0,31156.22,80.3,5.32,4.22,0.99,381.0,7.0,1.84,137.05,High Conversion Segment
+rouge,app,combination,4693,6887.0,374.0,26845.15,71.78,5.43,5.72,1.47,362.0,11.0,3.04,170.12,High Conversion Segment
+vib,app,unknown,6700,6587.0,353.0,26226.05,74.29,5.36,3.91,0.98,346.0,7.0,2.02,137.78,High Conversion Segment
+insider,web,dry,12350,7746.0,367.0,25481.06,69.43,4.74,2.06,0.63,356.0,11.0,3.09,101.99,Normal Segment
+vib,store,combination,7439,7356.0,358.0,23440.26,65.48,4.87,3.15,0.99,350.0,8.0,2.29,138.28,Normal Segment
+non_member,web,unknown,15217,7442.0,330.0,21983.67,66.62,4.43,1.44,0.49,327.0,3.0,0.92,85.33,Normal Segment
+non_member,store,combination,14996,7269.0,285.0,21701.88,76.15,3.92,1.45,0.48,283.0,2.0,0.71,84.96,Normal Segment
+non_member,app,unknown,13655,6517.0,290.0,20664.61,71.26,4.45,1.51,0.48,286.0,4.0,1.4,82.48,Normal Segment
+insider,app,dry,11047,7106.0,311.0,20659.84,66.43,4.38,1.87,0.64,308.0,3.0,0.97,104.25,Normal Segment
+insider,app,normal,8475,5457.0,270.0,20547.28,76.1,4.95,2.42,0.64,267.0,3.0,1.12,103.92,Normal Segment
+insider,web,normal,9353,5972.0,265.0,19086.11,72.02,4.44,2.04,0.64,261.0,4.0,1.53,102.44,Normal Segment
+insider,web,oily,8444,5483.0,244.0,17656.21,72.36,4.45,2.09,0.65,240.0,4.0,1.67,104.75,Normal Segment
+vib,web,dry,5081,5046.0,263.0,17598.67,66.92,5.21,3.46,0.99,258.0,5.0,1.94,136.53,High Conversion Segment
+insider,app,oily,7813,4976.0,234.0,17491.12,74.75,4.7,2.24,0.64,232.0,2.0,0.86,101.78,Normal Segment
+rouge,web,unknown,2673,3918.0,231.0,16793.97,72.7,5.9,6.28,1.47,220.0,11.0,5.0,164.27,High Conversion Segment
+rouge,store,combination,2599,3936.0,227.0,16681.58,73.49,5.77,6.42,1.51,214.0,12.0,5.61,166.77,High Conversion Segment
+insider,store,unknown,8665,5653.0,235.0,15998.68,68.08,4.16,1.85,0.65,229.0,6.0,2.62,105.61,Normal Segment
+vib,app,dry,4489,4370.0,205.0,15591.35,76.06,4.69,3.47,0.97,204.0,1.0,0.49,136.99,Normal Segment
+non_member,web,dry,10362,5007.0,191.0,14479.39,75.81,3.81,1.4,0.48,187.0,3.0,1.6,84.16,Normal Segment
+vib,app,normal,3388,3383.0,190.0,14179.87,74.63,5.62,4.19,1.0,183.0,7.0,3.83,138.09,High Conversion Segment
+non_member,app,dry,9332,4528.0,204.0,13878.0,68.03,4.51,1.49,0.49,202.0,2.0,0.99,82.86,Normal Segment
+vib,web,normal,3931,4031.0,182.0,13730.56,75.44,4.52,3.49,1.03,175.0,7.0,4.0,138.61,Normal Segment
+rouge,app,unknown,2355,3472.0,196.0,13531.52,69.04,5.65,5.75,1.47,188.0,8.0,4.26,169.64,High Conversion Segment
+non_member,app,normal,7101,3510.0,156.0,12347.9,79.15,4.44,1.74,0.49,154.0,2.0,1.3,85.7,Normal Segment
+vib,store,unknown,3580,3517.0,171.0,11982.62,70.07,4.86,3.35,0.98,166.0,5.0,3.01,129.79,Normal Segment
+insider,store,dry,5902,3669.0,157.0,11908.49,75.85,4.28,2.02,0.62,157.0,0.0,0.0,100.78,Normal Segment
+non_member,web,normal,7801,3680.0,161.0,11882.65,73.81,4.38,1.52,0.47,160.0,1.0,0.63,81.16,Normal Segment
+non_member,app,oily,6428,3033.0,135.0,11525.56,85.37,4.45,1.79,0.47,134.0,1.0,0.75,81.69,Normal Segment
+vib,app,oily,3055,3042.0,167.0,11102.83,66.48,5.49,3.63,1.0,160.0,7.0,4.38,132.83,High Conversion Segment
+vib,web,oily,3363,3292.0,148.0,10770.94,72.78,4.5,3.2,0.98,145.0,3.0,2.07,138.8,Normal Segment
+rouge,web,dry,1766,2662.0,140.0,10736.29,76.69,5.26,6.08,1.51,136.0,4.0,2.94,175.15,High Conversion Segment
+non_member,web,oily,7114,3431.0,149.0,10363.5,69.55,4.34,1.46,0.48,148.0,1.0,0.68,85.55,Normal Segment
+non_member,store,unknown,7189,3495.0,146.0,9284.97,63.6,4.18,1.29,0.49,145.0,1.0,0.69,84.63,Normal Segment
+insider,store,oily,4152,2698.0,123.0,8508.89,69.18,4.56,2.05,0.65,120.0,3.0,2.5,104.27,Normal Segment
+insider,store,normal,4468,2821.0,130.0,8234.56,63.34,4.61,1.84,0.63,128.0,2.0,1.56,102.76,Normal Segment
+rouge,web,oily,1285,1959.0,107.0,7816.5,73.05,5.46,6.08,1.52,100.0,7.0,7.0,164.82,High Conversion Segment
+rouge,app,dry,1554,2339.0,119.0,7603.51,63.9,5.09,4.89,1.51,116.0,3.0,2.59,166.25,High Conversion Segment
+rouge,store,unknown,1293,1963.0,108.0,7585.43,70.24,5.5,5.87,1.52,102.0,6.0,5.88,172.97,High Conversion Segment
+rouge,web,normal,1305,1934.0,103.0,7535.83,73.16,5.33,5.77,1.48,99.0,4.0,4.04,170.76,High Conversion Segment
+vib,store,dry,2360,2397.0,122.0,7046.64,57.76,5.09,2.99,1.02,121.0,1.0,0.83,137.74,High Conversion Segment
+vib,store,normal,1829,1799.0,89.0,6783.9,76.22,4.95,3.71,0.98,87.0,2.0,2.3,139.95,Normal Segment
+rouge,app,oily,1080,1649.0,91.0,6775.07,74.45,5.52,6.27,1.53,85.0,6.0,7.06,178.47,High Conversion Segment
+rouge,app,normal,1222,1756.0,90.0,6726.27,74.74,5.13,5.5,1.44,87.0,3.0,3.45,168.3,High Conversion Segment
+non_member,store,oily,3394,1717.0,76.0,6549.14,86.17,4.43,1.93,0.51,76.0,0.0,0.0,85.59,Normal Segment
+vib,unknown,combination,1190,1199.0,85.0,6410.41,75.42,7.09,5.39,1.01,83.0,2.0,2.41,143.59,High Conversion Segment
+non_member,store,dry,4820,2269.0,84.0,5682.64,67.65,3.7,1.18,0.47,83.0,1.0,1.2,83.98,Normal Segment
+rouge,store,dry,842,1187.0,65.0,5514.35,84.84,5.48,6.55,1.41,63.0,2.0,3.17,167.42,High Conversion Segment
+vib,store,oily,1570,1516.0,76.0,5482.35,72.14,5.01,3.49,0.97,76.0,0.0,0.0,130.4,High Conversion Segment
+non_member,unknown,combination,2365,1112.0,61.0,5274.37,86.47,5.49,2.23,0.47,60.0,1.0,1.67,82.4,High Conversion Segment
+insider,unknown,combination,2762,1764.0,64.0,4603.44,71.93,3.63,1.67,0.64,64.0,0.0,0.0,105.38,Normal Segment
+non_member,store,normal,3706,1713.0,51.0,4254.86,83.43,2.98,1.15,0.46,51.0,0.0,0.0,80.56,Normal Segment
+insider,unknown,unknown,1397,925.0,37.0,3155.51,85.28,4.0,2.26,0.66,37.0,0.0,0.0,107.99,Normal Segment
+rouge,store,normal,683,1016.0,55.0,2957.33,53.77,5.41,4.33,1.49,53.0,2.0,3.77,168.7,High Conversion Segment
+rouge,store,oily,589,892.0,41.0,2591.37,63.2,4.6,4.4,1.51,40.0,1.0,2.5,174.8,Normal Segment
+rouge,unknown,combination,408,582.0,33.0,2456.8,74.45,5.67,6.02,1.43,31.0,2.0,6.45,177.71,High Conversion Segment
+insider,unknown,dry,863,546.0,24.0,1933.55,80.56,4.4,2.24,0.63,24.0,0.0,0.0,103.1,Normal Segment
+vib,unknown,unknown,553,561.0,27.0,1839.89,68.14,4.81,3.33,1.01,26.0,1.0,3.85,145.71,Normal Segment
+vib,unknown,dry,348,310.0,20.0,1542.29,77.11,6.45,4.43,0.89,19.0,1.0,5.26,125.17,High Conversion Segment
+non_member,unknown,unknown,1094,540.0,23.0,1317.06,57.26,4.26,1.2,0.49,23.0,0.0,0.0,82.33,Normal Segment
+insider,unknown,normal,713,440.0,18.0,1154.1,64.12,4.09,1.62,0.62,17.0,1.0,5.88,95.75,Normal Segment
+non_member,unknown,dry,747,327.0,11.0,1081.28,98.3,3.36,1.45,0.44,11.0,0.0,0.0,80.52,Normal Segment
+rouge,unknown,normal,82,124.0,8.0,1043.05,130.38,6.45,12.72,1.51,8.0,0.0,0.0,151.72,High Conversion Segment
+rouge,unknown,unknown,166,207.0,10.0,860.1,86.01,4.83,5.18,1.25,9.0,1.0,11.11,145.17,Retention Segment
+rouge,unknown,dry,142,201.0,12.0,762.0,63.5,5.97,5.37,1.42,12.0,0.0,0.0,163.37,High Conversion Segment
+non_member,unknown,oily,469,240.0,8.0,728.0,91.0,3.33,1.55,0.51,8.0,0.0,0.0,87.28,Normal Segment
+non_member,unknown,normal,543,244.0,10.0,707.98,70.8,4.1,1.3,0.45,10.0,0.0,0.0,82.62,Normal Segment
+vib,unknown,oily,256,251.0,14.0,695.7,49.69,5.58,2.72,0.98,14.0,0.0,0.0,127.8,High Conversion Segment
+insider,unknown,oily,614,397.0,9.0,469.2,52.13,2.27,0.76,0.65,9.0,0.0,0.0,106.11,Normal Segment
+rouge,unknown,oily,93,148.0,8.0,412.7,51.59,5.41,4.44,1.59,8.0,0.0,0.0,168.15,High Conversion Segment
+vib,unknown,normal,291,274.0,6.0,252.2,42.03,2.19,0.87,0.94,6.0,0.0,0.0,118.57,Normal Segment

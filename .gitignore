@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large raw data files
+data/raw/*.csv
+data/raw/*.zip
+data/raw/*.json
+
+# Optional processed large files
+data/processed/*.csv
+data/processed/*.zip
+
+# Power BI temporary files
+*.tmp
+~$*
+
+# Logs
+*.log

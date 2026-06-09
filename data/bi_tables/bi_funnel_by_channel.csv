@@ -1,0 +1,4 @@
+channel,sessions,sessions_with_search,sessions_with_impression,sessions_with_click,sessions_with_cart,sessions_with_purchase,search_rate_pct,impression_to_click_rate_pct,click_to_cart_rate_pct,cart_to_purchase_rate_pct,session_conversion_rate_pct
+app,128325,61803.0,59719.0,46360.0,13090.0,6073.0,48.16,77.63,28.24,46.39,4.73
+web,153334,73947.0,71349.0,55258.0,15688.0,7079.0,48.23,77.45,28.39,45.12,4.62
+store,68341,32980.0,31847.0,24702.0,6814.0,3096.0,48.26,77.56,27.58,45.44,4.53

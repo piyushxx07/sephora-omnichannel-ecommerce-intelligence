@@ -1,0 +1,8 @@
+traffic_source,sessions,sessions_with_search,sessions_with_impression,sessions_with_click,sessions_with_cart,sessions_with_purchase,search_rate_pct,impression_to_click_rate_pct,click_to_cart_rate_pct,cart_to_purchase_rate_pct,session_conversion_rate_pct
+affiliate,24464,11783.0,11387.0,8912.0,2576.0,1207.0,48.16,78.26,28.9,46.86,4.93
+influencer,24340,11610.0,11210.0,8657.0,2535.0,1156.0,47.7,77.23,29.28,45.6,4.75
+paid_search,73542,35504.0,34267.0,26580.0,7551.0,3430.0,48.28,77.57,28.41,45.42,4.66
+direct,45667,21879.0,21158.0,16461.0,4613.0,2118.0,47.91,77.8,28.02,45.91,4.64
+organic,76860,37080.0,35794.0,27684.0,7720.0,3548.0,48.24,77.34,27.89,45.96,4.62
+paid_social,59690,28883.0,27838.0,21588.0,6066.0,2745.0,48.39,77.55,28.1,45.25,4.6
+email,45437,21991.0,21261.0,16438.0,4531.0,2044.0,48.4,77.32,27.56,45.11,4.5

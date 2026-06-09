@@ -1,0 +1,7 @@
+stage_order,stage_name,stage_count,previous_stage_count,stage_conversion_rate_pct,stage_dropoff_rate_pct,overall_conversion_from_session_pct
+1,Total Sessions,350000.0,,,,100.0
+2,Sessions With Search,168730.0,350000.0,48.21,51.79,48.21
+3,Sessions With Product Impression,162915.0,168730.0,96.55,3.45,46.55
+4,Sessions With Click,126320.0,162915.0,77.54,22.46,36.09
+5,Sessions With Cart,35592.0,126320.0,28.18,71.82,10.17
+6,Sessions With Purchase,16248.0,35592.0,45.65,54.35,4.64
