@@ -282,6 +282,7 @@ sephora-omnichannel-ecommerce-intelligence/
 ├── data/
 │   ├── raw/
 │   ├── processed/
+│       ├── dataset_generate
 │   └── bi_tables/
 │
 ├── sql/
