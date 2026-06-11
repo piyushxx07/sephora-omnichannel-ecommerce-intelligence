@@ -1,0 +1,267 @@
+{
+  "name": "Sephora Chart Colors Only",
+  "dataColors": [
+    "#F48BA6",
+    "#E75B82",
+    "#F7C8D5",
+    "#B8895B",
+    "#D7B98E",
+    "#68C3A3",
+    "#F7F3EF",
+    "#B8B8B8",
+    "#6F6F6F",
+    "#111111"
+  ],
+  "tableAccent": "#F48BA6",
+  "bad": "#E75B82",
+  "neutral": "#D7B98E",
+  "good": "#68C3A3",
+  "maximum": "#F48BA6",
+  "center": "#D7B98E",
+  "minimum": "#111111",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#F48BA6"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "barChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#D7B98E"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#3A3033"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#D7B98E"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#3A3033"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#D7B98E"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#3A3033"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#D7B98E"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#3A3033"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#D7B98E"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#3A3033"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#D7B98E"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#3A3033"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "comboChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#D7B98E"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#D7B98E"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#3A3033"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "scatterChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#D7B98E"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#F7F3EF"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#D7B98E"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#3A3033"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
